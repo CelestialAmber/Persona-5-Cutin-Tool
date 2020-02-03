@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28721.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5CutinTool", "Persona 5 Cutin Tool\P5CutinTool.csproj", "{3185F4B3-F465-41F0-BED0-3847CBF4BCB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P5CutinTool", "Persona 5 Cutin Tool\P5CutinTool.csproj", "{8E9FA7EE-D8C9-4059-B02E-F069145AB3E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3185F4B3-F465-41F0-BED0-3847CBF4BCB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3185F4B3-F465-41F0-BED0-3847CBF4BCB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3185F4B3-F465-41F0-BED0-3847CBF4BCB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3185F4B3-F465-41F0-BED0-3847CBF4BCB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E9FA7EE-D8C9-4059-B02E-F069145AB3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9FA7EE-D8C9-4059-B02E-F069145AB3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9FA7EE-D8C9-4059-B02E-F069145AB3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9FA7EE-D8C9-4059-B02E-F069145AB3E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
